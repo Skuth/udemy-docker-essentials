@@ -1,0 +1,12 @@
+---
+host: geek
+datacenter:
+  location: São Paulo
+  router: 42
+  swtich: 34
+---
+host: udemy
+datacenter:
+  location: Colorado
+  router: 23
+  switch: 21
