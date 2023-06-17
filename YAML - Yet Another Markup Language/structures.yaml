@@ -10,3 +10,9 @@ datacenter:
   location: Colorado
   router: 23
   switch: 21
+---
+host: outro
+datacenter:
+  location: algum lugar
+  router: 4
+  switch: 2
